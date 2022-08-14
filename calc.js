@@ -7,7 +7,7 @@ switch (operator) {
     case 'subtract':
         return a-b;
     default: 
-     return "Error "    
+     return "Введите правильную операцию для вычисления"    
 }
 
 /*
